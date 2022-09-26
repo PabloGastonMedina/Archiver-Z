@@ -59,7 +59,16 @@
 
 ##
 
- 
+<details>
+  <summary><h3>Dependencies</h3></summary>
+
+<b>Archiver-Z</b> requires following programs to run properly
+- `zip`
+- `7z`
+- `rar`
+
+> All the dependencies will be installed automatically when you run **Archiver-Z** for the first time.
+</details>
 
 <details>
   <summary><h3>Tested on</h3></summary>
@@ -69,12 +78,10 @@
 - **Termux**
 </details>
  
+
+
   
-<b>Archiver-Z</b> requires following programs to run properly 
-- `zip`
-- `7z`
-- `rar`
-> All the dependencies will be installed automatically when you run Zphisher for the first time.
+
 ##
 
 <h3 align="center"><i>:: Tool ::</i></h3>
