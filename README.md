@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
 
 </p>
-  <h4><p align="center">Tool for cracking zipper, 7z and rar archives.</p></h4>
+  <h4><p align="center">Tool for cracking zip, 7z and rar archives.</p></h4>
  
 </p>
 
