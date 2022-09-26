@@ -84,14 +84,14 @@
 
 ##
 
+
+
 <h3 align="center"><i>:: Tool ::</i></h3>
 <p align="center">
+<img src="https://i.ibb.co/DMGr9j2/2022-09-26-15-59.png"/>
 </p>
-<p align="center">
-  <img src="https://thumbs.gfycat.com/PrestigiousSevereAcornweevil-mobile.mp4" alt=""/>
-</p>
- 
-[![Demo CountPages alpha](https://thumbs.gfycat.com/PrestigiousSevereAcornweevil-mobile.mp4)](https://www.youtube.com/watch?v=ek1j272iAmc) 
+
+
 ##
 
 #### Find me on:
