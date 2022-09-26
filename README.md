@@ -88,10 +88,10 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png" alt=""/>
+  <img src="https://thumbs.gfycat.com/PrestigiousSevereAcornweevil-mobile.mp4" alt=""/>
 </p>
  
-  
+[![Demo CountPages alpha](https://thumbs.gfycat.com/PrestigiousSevereAcornweevil-mobile.mp4)](https://www.youtube.com/watch?v=ek1j272iAmc) 
 ##
 
 #### Find me on:
