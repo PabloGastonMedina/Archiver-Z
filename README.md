@@ -51,7 +51,7 @@
 - Go to cloned directory and run ```az.sh```
   
   ```
-  cd Archive-Z
+  cd Archiver-Z
   bash az.sh
   ```
 - On first launch, It'll install the dependencies.
