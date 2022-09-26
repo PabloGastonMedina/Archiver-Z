@@ -88,7 +88,7 @@
 
 <h3 align="center"><i>:: Tool ::</i></h3>
 <p align="center">
-<img src="https://i.ibb.co/DMGr9j2/2022-09-26-15-59.png"/>
+<img src="https://i.ibb.co/WyfB1Sq/img-1.png"/>
 </p>
 
 
